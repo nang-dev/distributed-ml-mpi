@@ -1,7 +1,0 @@
-mpirun -np 8 ./lr_centralized 1000 0.01 0 data/weatherAUS.csv out.txt Yes No
-mpirun -np 8 ./lr_centralized 1000 0.01 3 data/weatherAUS.csv out.txt Yes No
-mpirun -np 8 ./lr_centralized 1000 0.01 6 data/weatherAUS.csv out.txt Yes No
-mpirun -np 8 ./lr_centralized 1000 0.01 9 data/weatherAUS.csv out.txt Yes No
-mpirun -np 8 ./lr_centralized 1000 0.01 12 data/weatherAUS.csv out.txt Yes No
-mpirun -np 8 ./lr_centralized 1000 0.01 15 data/weatherAUS.csv out.txt Yes No
-mpirun -np 8 ./lr_centralized 1000 0.01 18 data/weatherAUS.csv out.txt Yes No
